@@ -1,26 +1,5 @@
-### 기능 목록
-🎯 필수
-- 할 일 추가
+# Vue 3 + TypeScript + Vite
 
-- 입력창에 텍스트 입력 → 버튼 클릭 시 목록에 추가
+This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-- 항목 우측에 X 버튼 → 클릭 시 해당 항목 삭제
-
-- X 버튼 좌측에 수정 버튼 → 클릭 시 해당 항목 수정 가능 
-
-- 완료 상태 토글
-
-- 체크박스 클릭 시 완료/미완료 상태 변경
-
-- 할 일 개수 표시
-
-- 전체 개수, 완료 개수, 남은 개수 표시
-
-🌱 확장 기능 (선택)
-- 로컬스토리지(LocalStorage) 저장 → 새로고침해도 데이터 유지
-
-- 필터 기능 (전체 / 완료 / 미완료 보기)
-
-- 날짜/시간 표시
-
-- UI 스타일링 (TailwindCSS, Bootstrap 등)
+Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
